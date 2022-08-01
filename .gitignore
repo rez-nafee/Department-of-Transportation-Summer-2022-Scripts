@@ -2,7 +2,7 @@
 .idea/
 venv/
 
-#.csv files & .xls files
+#.csv files & .xlsx files
 *.csv
 *.xlsx
 
